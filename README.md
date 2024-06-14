@@ -1,2 +1,2 @@
 # ms_powershell
-Microsoft Powershell script respository.
+Microsoft Powershell script respository
